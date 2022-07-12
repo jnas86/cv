@@ -1,1 +1,3 @@
-# This is a simple CV example using html and css
+# Personal CV
+
+Simple CV example with HTML and CSS
